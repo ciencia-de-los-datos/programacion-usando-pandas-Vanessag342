@@ -83,16 +83,3 @@ def pregunta_13():
     result = merged.groupby('_c1')['_c5b'].sum()
     return result
 
-print(pregunta_01())
-print(pregunta_02())
-print(pregunta_03())
-print(pregunta_04())
-print(pregunta_05())
-print(pregunta_06())
-print(pregunta_07())
-print(pregunta_08())
-print(pregunta_09())
-print(pregunta_10())
-print(pregunta_11())
-print(pregunta_12())
-print(pregunta_13())
